@@ -40,10 +40,13 @@
     "jest": "^27.5.1"
   },
   "jest": {
-    "setupFiles": [
+    "testEnvironment": "jsdom",
+    "setupFilesAfterEnv": [
+      "@testing-library/jest-dom/extend-expect",
       "<rootDir>/jest.setup.js"
     ],
-    "testEnvironment": "jsdom",
-    "testPathIgnorePatterns": ["/test_suites"]
+    "testPathIgnorePatterns": [
+      "/test_suites"
+    ]
   }
 }
