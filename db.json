@@ -9,35 +9,35 @@
     },
     {
       "id": 2,
-      "name": "ZZ Plant",
+      "name": "Calathea",
       "image": "./images/zz-plant.jpg",
       "price": 25.98,
       "inStock": true
     },
     {
       "id": 3,
-      "name": "Pilea peperomioides",
+      "name": "fiddle",
       "image": "./images/pilea.jpg",
       "price": 5.99,
       "inStock": false
     },
     {
       "id": 4,
-      "name": "Pothos",
+      "name": "jade",
       "image": "./images/pothos.jpg",
       "price": 12.11,
       "inStock": true
     },
     {
       "id": 5,
-      "name": "Jade",
+      "name": "monstera",
       "image": "./images/jade.jpg",
       "price": 10.37,
       "inStock": true
     },
     {
       "id": 6,
-      "name": "Monstera Deliciosa",
+      "name": "pilea",
       "image": "./images/monstera.jpg",
       "price": 25.99,
       "inStock": true
@@ -50,14 +50,14 @@
       "inStock": true
     },
     {
-      "name": "foo",
+      "name": "pothos",
       "image": "foo_plant_image_url",
       "price": 10,
       "id": 8,
       "inStock": true
     },
     {
-      "name": "foo",
+      "name": "zz plant",
       "image": "foo_plant_image_url",
       "price": 10,
       "id": 9
